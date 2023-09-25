@@ -1,0 +1,603 @@
+Nome,Endereço,Latitude,Longitude,Categoria
+Restaurante Souza,"Av. Ver. Abrahão João Francisco, n 4.321 - Ressacada, Itajaí",-26.9325401,-48.6889996,restaurant
+Comedoria Restaurante Itajaí,"R. José Siqueira, 389 - Ressacada, Itajaí",-26.9249578,-48.6765903,restaurant
+Vó Zelina Restaurante,"Av. Nilo Simas, nº 705 - Cidade Nova, Itajaí",-26.923236,-48.6972549,restaurant
+Restaurante Nunes,"BR-101, Km 125 - Canhanduba, Itajaí",-26.94651,-48.6875614,restaurant
+Churrascaria Vieira Grill,"R. Raimundo Binder, 80 - Ressacada, Itajaí",-26.9281527,-48.68340629999999,restaurant
+Restaurante Angus Grill,"125, BR-101, 12500 - Canhanduba, Itajaí",-26.9458328,-48.6900273,restaurant
+Cantinho Do Baiano,"R. Agílio Cunha - Cidade Nova, Itajaí",-26.9218804,-48.69412519999999,restaurant
+Tropical Restaurante e Sushi Bar - Itajai e Região,"R. Euclydes Adão Peixes, 10 - Cidade Nova, Itajaí",-26.9262888,-48.69720299999999,restaurant
+Night Food Delivery,"rua olga germano pereira, 98 - Ressacada, Itajaí",-26.9322935,-48.6869694,restaurant
+Sushiart Culinária Japonesa,"R. José Gall, 910 - Dom Bosco, Itajaí",-26.9226389,-48.68065,restaurant
+Dany Bar & Lanches,"R. Pedro José João, 603 - Ressacada, Itajaí",-26.9207452,-48.6691155,restaurant
+Caldo De Cana,"R. Agílio Cunha, 736 - Cidade Nova, Itajaí",-26.9201687,-48.6939782,restaurant
+Quarentena Burguer,"Av. Ver. Abrahão João Francisco, 2805 - Loja 41 - Ressacada, Itajaí",-26.922618,-48.6742593,restaurant
+Hot Dog Póbris Itajaí,"R. José Siqueira, 20 - Dom Bosco, Itajaí",-26.9218144,-48.6775506,restaurant
+Bistrô do Sabor Univali,"R. Uruguai, 458 - Fazenda, Itajaí",-26.9186049,-48.6671646,restaurant
+I'CUGINI,"R. José Siqueira, 2992-3022 - Dom Bosco, Itajaí",-26.9243051,-48.6766786,restaurant
+Baiana Lanches,"R. Lino José da Silva, 78 - Cidade Nova, Itajaí",-26.924407,-48.6982603,restaurant
+HAMBUERGUERIA DA ROÇA,"Av. Min. Luiz Gallotti, 1207 - Cidade Nova, Itajaí",-26.9253724,-48.6982372,restaurant
+Lanchonete Shekina,"Av. Min. Luiz Gallotti, 1962 - Cidade Nova, Itajaí",-26.9305092,-48.6931825,restaurant
+Xande Lanches,"R. Agílio Cunha, 735 - Cidade Nova, Itajaí",-26.9201547,-48.6936616,restaurant
+"Fica, Vai ter Bolo Hostel","R. José Cândido, 560 - São João, Itajaí",-26.9000077,-48.676945,hotel
+Hotel Cidade Nova,"R. Agílio Cunha, 220 - Cidade Nova, Itajaí",-26.9153963,-48.6935416,hotel
+Glamour,"Av. Ver. Abrahão João Francisco, 2800 - Dom Bosco, Itajaí",-26.9228179,-48.675476,hotel
+Hostel Casa da Gi e Jussa,"R. Francisco Ferreira Filho, 212 - São Judas, Itajaí",-26.9097974,-48.6794913,hotel
+Lar da Frida,"Av. Itaipava, 1010 - Itaipava, Itajaí",-26.9373828,-48.7114127,hotel
+Athoss,"Rua Erna Hoier Corrêa, 751 - Ressacada, Itajaí",-26.9338469,-48.7008057,hotel
+Supermercados Lochill - Cidade Nova,"R. Agílio Cunha, 1126 - Cidade Nova, Itajaí",-26.9255917,-48.6945287,supermarket
+Supermercado Oliveira,"R. Agílio Cunha, 422 - Cidade Nova, Itajaí",-26.9171482,-48.69364230000001,supermarket
+Supermercado Promoforte,"R. Agílio Cunha, 1284 - S Vicente, Itajaí",-26.9245619,-48.6948309,supermarket
+Supermercado Econômico Itajaí,"Av. Min. Luiz Gallotti, 1866 - Cidade Nova, Itajaí",-26.9297971,-48.69395369999999,supermarket
+Mercado Verde Mar,"Av. Min. Luiz Gallotti, 1330 - Cidade Nova, Itajaí",-26.9263677,-48.6975205,supermarket
+Mini Mercado Padroeira,"R. Valério Zaguini - Cidade Nova, Itajaí",-26.9194236,-48.7047478,supermarket
+Mercado São Pedro,"R. Émerson Schneider - Quilômetro Doze, Itajaí",-26.9451622,-48.7105455,supermarket
+Mercado E Acougue Familia Albino,"Av. Min. Luiz Gallotti, 1062 - Cidade Nova, Itajaí",-26.9246222,-48.6993801,supermarket
+Mercearia Nolli,"R. Edmundo Wipel, 95 - Itaipava, Itajaí",-26.9437172,-48.7209856,supermarket
+Mercado e Açougue JG,"R. Francisco Boaventura da Silva, 178-408 - Itaipava, Itajaí",-26.9449699,-48.7112511,supermarket
+Mercado e Açougue Indaial,"R. Manoel Olívio Theodoro, 231 - Cidade Nova, Itajaí",-26.9281416,-48.6989052,supermarket
+AQUI VOCÊ ENCONTRA OFERTA DE VERDADE,"Rod. Antônio Heil, 800 - Itaipava, Itajaí",-26.939268,-48.70709309999999,supermarket
+MERCEARIA REINAUET,"R. João Reipert de Amorim - Dom Bosco, Itajaí",-26.9207096,-48.6800855,supermarket
+Phiel Armazéns Gerais,"Av. Gov. Adolfo Konder, 2600 - Cidade Nova, Itajaí",-26.916601,-48.703547,supermarket
+AUTOZONE ITAJAÍ SETOR 5 QQUADRA 12 LOTE 345,"Rua Estefano José Vanolli, 1889 Setor 5 Qquadra 12 345 - São Vicente, Itajaí",-26.9111787,-48.6885826,store
+Casual Store,"R. Estefano José Vanolli, 720 - São Vicente, Itajaí",-26.9005178,-48.6888079,store
+RD STORE,"R. Estefano José Vanolli, 1140 - São Vicente, Itajaí",-26.9043976,-48.68885909999999,store
+Conveniência Empório,"R. Estefano José Vanolli, 482 - São Vicente, Itajaí",-26.8984868,-48.6887599,store
+Lee Martins Store,"R. Paulo Arídio de França, 301 - Cidade Nova, Itajaí",-26.925766,-48.6990108,store
+Zion Store São Vicente,"R. Estefano José Vanolli, 1239 - São Vicente, Itajaí",-26.905422,-48.6885769,store
+BerKa Store,"nº 517 - R. Sd. Abelardo Mendonça Sobrinho, 517 - Ressacada, Itajaí",-26.9303109,-48.6855966,store
+Uyuni Store,"R. Manoel Francisco Coelho, 190 - Sl. 01 - São Vicente, Itajaí",-26.9020276,-48.6892242,store
+Le Donna Store,"R. Pedro Cristiano de Miranda, 426 - São Vicente, Itajaí",-26.9014103,-48.69471679999999,store
+M&A Store,"R. Agílio Cunha, 776 - SL 4 - Cidade Nova, Itajaí",-26.9225382,-48.6941757,store
+Ph store,"R. Gervásio Régis Júnior, 205 - São Vicente, Itajaí",-26.9076242,-48.7060143,store
+Bp Store,"R. José Domingos Machado, 195 - Cidade Nova, Itajaí",-26.9248843,-48.692421,store
+Weng's store,"R. Ver. Airton de Souza, 285 - São Vicente, Itajaí",-26.8975646,-48.6917182,store
+TopG Store,"R. Jaziel José Rosa - São João, Itajaí",-26.9094196,-48.7026844,store
+Lady Marie Store,"R. Arquiteto Nilson Edson dos Santos, 25 - São Vicente, Itajaí",-26.9055091,-48.6890228,store
+Only Boss Store,"Fachada está escrito ""Charme e Capricho - R. Arquiteto Nilson Edson dos Santos, 850 - São Vicente, Itajaí",-26.9049239,-48.6972149,store
+Morena bonita store,"R. Arquiteto Nilson Edson dos Santos, 268 - São Vicente, Itajaí",-26.9051909,-48.6914251,store
+SVAM Store,"Av. Nilo Bittencourt, 490 - São Vicente, Itajaí",-26.9126671,-48.7051639,store
+JUMP STORE ITAJAÍ,"R. Estefano José Vanolli, 590 - Sala 1 - São Vicente, Itajaí",-26.8992371,-48.6888673,store
+Camp Life Store,"R. Jaziel José Rosa, 97 - São Vicente, Itajaí",-26.9109222,-48.7027796,store
+Unidade básica de saúde,"R. Manoel José dos Santos, 434 - São Vicente, Itajaí",-26.9025038,-48.6965593,hospital
+Hospital da bicicleta,"R. Arnoldo Corrêa de Melo, 572 - Cidade Nova, Itajaí",-26.9199659,-48.6932977,hospital
+UPA 24h CIS - São Vicente,"Av. Gov. Adolfo Konder, 250 - Cidade Nova, Itajaí",-26.9105433,-48.6864292,hospital
+Street Burger,"R. Agílio Cunha - Cidade Nova, Itajaí",-26.9252027,-48.6942088,restaurant
+Paradise Motel,"Av. Ver. Abrahão João Francisco, 8974 - Ressacada, Itajaí",-26.9363573,-48.6966466,hotel
+Sindicato Nacional dos Aposentados e Pensionistas,"R. José Siqueira, 90 - Dom Bosco, Itajaí",-26.9225097,-48.6774162,bank
+Viacredi,"Av. Ver. Abrahão João Francisco, 2957 - Ressacada, Itajaí",-26.9236109,-48.67606869999999,bank
+Mercado Ressacada,"R. José Siqueira, 335 - Ressacada, Itajaí",-26.9245331,-48.6766262,supermarket
+Super Ofer,"Rua Jacó Moleri - Centro, Itajaí",-26.9063088,-48.6642725,supermarket
+Supermercado Amorim I,"R. Pedro Cristiano de Miranda, 955 - São Vicente, Itajaí",-26.9063014,-48.694707,supermarket
+Mercearia Jô,"R. Pedro José João, 175 - Ressacada, Itajaí",-26.9173531,-48.6694699,supermarket
+Mercearia Deia.,"R. Gustavo Manoel dos Santos, 183 - Ressacada, Itajaí",-26.9174595,-48.6684667,supermarket
+Comper,"200, Av. Sete de Setembro, 300 - Centro, Itajaí",-26.9087633,-48.6585772,supermarket
+Supermercado Lochill - Dom Bosco,"R. Indaial, 530 - Dom Bosco, Itajaí",-26.9166342,-48.677078,supermarket
+Mercado Chico,"R. Uruguai, 849 - Centro, Itajaí",-26.9168199,-48.6584243,supermarket
+Mercearia do Bem,"Rua Miguel Kunifas, 308 - Dom Bosco, Itajaí",-26.919556,-48.6752268,supermarket
+Compre Bem,rua criciuma,-26.9076752,-48.6677656,supermarket
+Supermarket Buy Well,"R. Otávio Cesário Pereira, 887 - São Vicente, Itajaí",-26.9051882,-48.6904997,supermarket
+Valdemir dias,"rua Francisco José Reis, 1496 - Santa Regina, Itajaí",-26.9105602,-48.6709276,supermarket
+Brava Atacarejo,"R. José Siqueira, 327 - Dom Bosco, Itajaí",-26.9243989,-48.6766528,supermarket
+Mercearia- Açougue Raul,"R. Lauro Muller, 50 - Centro, Itajaí",-26.9054993,-48.6556738,supermarket
+Armazém Rei do Preço Itajaí,"R. Pedro Cristiano de Miranda, 888 - São Vicente, Itajaí",-26.9055972,-48.6949233,supermarket
+Camaleão Store,"R. Laudelina Dionísio, 662 - Cordeiros, Itajaí",-26.8904776,-48.6957555,store
+Md Store,"Itajai - Navegantes - Barra do Rio, Itajaí",-26.8874212,-48.6800709,store
+DUELI STORE,"R. Indaial, 443 - Dom Bosco, Itajaí",-26.9174478,-48.677394,store
+Catharina Store,"R. Rio do Sul, 227 - São Judas, Itajaí",-26.9117858,-48.6770565,store
+FRITZ STORE,"R. Aurora Tabalipa, 230 - São João, Itajaí",-26.9017611,-48.6794124,store
+WeShop Store,"R. Pedro Pereira Mafra, 147 - Ressacada, Itajaí",-26.9247439,-48.6759834,store
+Regi store,"R. São Joaquim, 240 - São Vicente, Itajaí",-26.8977138,-48.6866406,store
+Rope Store,"R. Enedina d'Ávila Ferreira, 924 - Cordeiros, Itajaí",-26.8957655,-48.7064651,store
+D' Couto Store,"R. Nossa Sra. de Fátima, 21 - Cordeiros, Itajaí",-26.8872422,-48.6987555,store
+New One Store Br,"Bairro São João - R. Juca Cesário, 140 - Sala 15 - São João, Itajaí",-26.8979241,-48.6780014,store
+Hank's Original Burger - Lanchonete e Delivery,"R. Indaial, 194 - sala 3 - Dom Bosco, Itajaí",-26.9197222,-48.6772222,restaurant
+Best Burger & Co. Itajaí,"R. José Testoni, 01 - Dom Bosco, Itajaí",-26.918789,-48.6705009,restaurant
+Mineiros Lanches,"Londres - Condomínio Parque Europeu, Rua Alvaro Beraldi, 460 - Apto 305 - Canhanduba, Itajaí",-26.9394909,-48.6908809,restaurant
+Hot Dog do Guí Prensadão,"R. da Rua Raul Machado, 920 - Cidade Nova, Itajaí",-26.9258128,-48.6915546,restaurant
+Delícias da Déia,"R. Oscár Praun Rodrigues - Fazenda, Itajaí",-26.9185101,-48.6577126,restaurant
+Itajaí Express,"R. Felipe Schmidt, 198 - Centro, Itajaí",-26.9060043,-48.6574446,hotel
+ibis budget Navegantes Itajai,"Av. Ver. Abrahão João Francisco, 587 - Centro, Itajaí",-26.913946,-48.658536,hotel
+Hotel Itajaí Tur,"R. Alberto Werner, 133 - São João, Itajaí",-26.9049876,-48.6688756,hotel
+Hotel Marjaí,"Av. Sete de Setembro, 1473 - Fazenda, Itajaí",-26.9186463,-48.6541226,hotel
+Hotel 7 Itajaí,"Av. Sete de Setembro, 776 - Fazenda, Itajaí",-26.9131194,-48.65671589999999,hotel
+Hotel Graju,"Av. Sete de Setembro, 1181 - Centro, Itajaí",-26.9165423,-48.6550395,hotel
+Hotel Valerim Itajaí / Navegantes,"R. Dr. Pedro Ferreira, 3 - Centro, Itajaí",-26.9046835,-48.6560844,hotel
+Novotel Itajai,"R. Lauro Muller, 170 - Centro, Itajaí",-26.9066245,-48.65564850000001,hotel
+Hotel Vitória,"R. Brusque, 947 - Centro, Itajaí",-26.9153854,-48.6689685,hotel
+Sandri Palace Hotel - Itajaí,"Av. Sete de Setembro, 1675 - Fazenda, Itajaí",-26.9205053,-48.65331949999999,hotel
+Mercure Itajaí Navegantes,"R. Dr. Pedro Ferreira, 363 - Centro, Itajaí",-26.9028257,-48.658991,hotel
+Hotel Rota do Mar,"R. Lauro Muller, 97 - Centro, Itajaí",-26.9059254,-48.6552663,hotel
+Hotel Panorama Itajaí,"Av. Osvaldo Reis, 1750 - Fazenda, Itajaí",-26.9369754,-48.64187829999999,hotel
+Casa Amarela Pousada Hostel,"R. Cap. Adolfo Germano de Andrade, 271 - Centro, Itajaí",-26.9048253,-48.6672348,hotel
+ibis Navegantes Itajai,"R. Vereador Abrahao J F, Av. Ver. Abrahão João Francisco, 587, Itajaí",-26.9138349,-48.65865840000001,hotel
+Pousada Cirandinha,"R. Gregório Chaves, 65 - Fazenda, Itajaí",-26.9206869,-48.6546587,hotel
+Casa Arrô,"R. Eng. João da Rocha Melo, 147 - Cabeçudas, Itajaí",-26.931328,-48.6350309,hotel
+Rebello's Guest House,"R. João Ladislau Tabalipa, 104 - São João, Itajaí",-26.8990728,-48.6720042,hotel
+Hotel sandri,"R. Antônio Manoel Moreira, 175 - Fazenda, Itajaí",-26.9205245,-48.6522218,hotel
+Bradesco,"R. Brusque, 358 - Loja 5 B - Centro, Itajaí",-26.9106875,-48.6662592,bank
+MCF Serviços de Crédito,"R. Dr. José Bonifácio Malburg, 204 - Centro, Itajaí",-26.904442,-48.6586664,bank
+Banco Itaú - Agência 0292,"Rua Gil Stein Ferreira, 145 - Centro, Itajaí",-26.9071619,-48.6588929,bank
+HSBC Bank Brasil S.A. - Banco Múltiplo (Posto Universitario),"R. Modesto Fernandes Viêira, 1 - Dom Bosco, Itajaí",-26.918815,-48.66993979999999,bank
+Banco Bradesco - Agência 0330,"R. Hercílio Luz, 335 - Centro, Itajaí",-26.9057648,-48.65787479999999,bank
+Banco24Horas,"Av. Ver. Abrahão João Francisco, 84 - Centro, Itajaí",-26.9145361,-48.6627269,bank
+Caixa Itajaí,"Avenida Joca Brandão, Número:, 0416 - 2 - Volta de Cima, Itajaí",-26.9125607,-48.6604216,bank
+Banco Santander - Agências 0049 e 1910,"R. Uruguai, 458 - Centro, Itajaí",-26.9184586,-48.6670184,bank
+Agibank,"R. Hercílio Luz, 228 - Centro, Itajaí",-26.9053857,-48.65691349999999,bank
+Caixa Econômica Federal,"R. Brusque, 89 - Centro, Itajaí",-26.9088618,-48.6633795,bank
+BANCO DO BRASIL - ITAJAI - Agência 305,"R. Felipe Schmidt, 454 - Centro, Itajaí",-26.9040921,-48.658221,bank
+Pratic Fomento Empresarial,"Condomínio Edifício Executive Center - Rua Gil Stein Ferreira, 357 - Centro, Itajaí",-26.9078342,-48.6606655,bank
+Federal Savings Bank,"Av. Joca Brandão, 443 - Centro, Itajaí",-26.9120237,-48.6579687,bank
+Banco Santander - Agência 1242 - Hercílio Luz Itajaí,"R. Hercílio Luz, 498 - Centro, Itajaí",-26.9059694,-48.6594365,bank
+FIESC - Vice Presidência Foz do Rio Itajaí,"R. José Ferreira da Silva, 43 - Centro, Itajaí",-26.9045112,-48.6613838,bank
+Banco Santander - Agência 4620 Xv Novembro Itajai,"Rua XV de Novembro, 70 - Centro, Itajaí",-26.9060101,-48.65664570000001,bank
+Banco Bradesco - Agência 0163,"Av. João Sacavem, 487 - Centro, Navegantes",-26.9014012,-48.6496061,bank
+Êxito Correspondente Caixa,"R. Lauro Muller, 709 - Fazenda, Itajaí",-26.9113054,-48.65443339999999,bank
+Supermercado Kinkas,"R. Ver. Manoel Fernandes, 231 - Centro, Navegantes",-26.8992701,-48.6501948,supermarket
+Mercearia Vitoria,"R. Abraão Bernardino Rocha, 320 - Fazenda, Itajaí",-26.926991,-48.6507699,supermarket
+Mercearia sao miguel arcanjo,"R. Ver. Onofre Joaquim Rodrigues Júnior, 648 - Centro, Navegantes",-26.8955739,-48.64956220000001,supermarket
+Bistek Supermercados,"Rua Manoel Izidro, 505 - Centro, Navegantes",-26.9007099,-48.6493516,supermarket
+Supermercados Bistek,"Av. Sete de Setembro, 1330 - Fazenda, Itajaí",-26.9187076,-48.65455799999999,supermarket
+Giassi Supermercados - Itajaí,"Av. Osvaldo Reis, 839 - Fazenda, Itajaí",-26.929243,-48.6444587,supermarket
+Supermercado Vila Verde,"R. Ver. Nereu Liberato Nunes, 108 - Centro, Navegantes",-26.8947298,-48.65516419999999,supermarket
+Mercearia Neumann,"R. Gumercindo Rocha, 184 - Fazenda, Itajaí",-26.9231206,-48.6488396,supermarket
+Mercato Sadia - Itajaí,"R. Jorge Tzachel, 250 - Fazenda, Itajaí",-26.9188124,-48.6518031,supermarket
+Zooey Store,"R. Felipe Schmidt, 314 - Centro, Itajaí",-26.9051956,-48.6578047,store
+Dona Arcanjo Store,"R. Olímpio Miranda Júnior, 168 - Centro, Itajaí",-26.9063002,-48.6560272,store
+store itajaí,"R. Lauro Muller, 201 - Fazenda, Itajaí",-26.906878,-48.655198,store
+Conveniência Am/Pm,"Av. Cel. Marcos Konder, 217 - Centro, Itajaí",-26.9038967,-48.6631867,store
+Hostin Store,"R. Lúcio Corrêa de Mendonça, 180 - Fazenda, Itajaí",-26.9250059,-48.65256189999999,store
+Zion Store Centro,"R. Hercílio Luz, 598 - Centro, Itajaí",-26.9063425,-48.6604488,store
+Vanessa Conveniências,"R. Brusque, 1010 - Centro, Itajaí",-26.9156906,-48.6695254,store
+Martillucci Store,"Rua João Bauer, 498 - Centro, Itajaí",-26.911858,-48.660155,store
+iPet Store Pet Shop,"R. Brusque, 358 - Centro, Itajaí",-26.9103953,-48.6668431,store
+Sunrise Surf Store,"Av. João Sacavem - Centro, Navegantes",-26.901457,-48.6499775,store
+Laviér Store - Perfumes Importados e Nacionais,"R. Hercílio Luz, 201 - sala 03 - Centro, Itajaí",-26.9053985,-48.6564396,store
+Infostore Informática,"R. Alm. Barroso, 229 - Centro, Itajaí",-26.9072456,-48.6651153,store
+Annabella Store,"R. Manoel Viêira Garção, 112 - Centro, Itajaí",-26.9047111,-48.6571801,store
+Primme Store Sofá,"R. 26 de Agosto, 34 - Centro, Navegantes",-26.9026419,-48.6510877,store
+Allure Store,"Sodegaura Center - R. Olímpio Miranda Júnior, 15 - Centro, Itajaí",-26.9062785,-48.6547759,store
+Viva Bem Store,"Edifício Torre Azul - Rua Gil Stein Ferreira, 100 - loja 1 e 3 - Centro, Itajaí",-26.9068455,-48.6584689,store
+"Loja do 2,00 R$","Centro, Itajaí",-26.9055406,-48.6595978,store
+Furniture Store,"R. 26 de Agosto - São Pedro, Navegantes",-26.9041729,-48.6489467,store
+One Store Marisol Itajaí,"R:Samuel Heusi, 234 - SalaT32 -(3045.1178 - Centro, Itajaí",-26.9036158,-48.6603901,store
+Pedalli Bike Store,"R. Felix Busso Asseburg, 84 - Centro, Itajaí",-26.9070362,-48.6545936,store
+Hospital e Maternidade Marieta Konder Bornhausen,"Av. Cel. Marcos Konder, 1111 - Centro, Itajaí",-26.9105679,-48.65961069999999,hospital
+Hospital Municipal Nossa Senhora dos Navegantes,"R. Natividade Costa, 641 - São Domingos, Navegantes",-26.8882382,-48.6560522,hospital
+MA Hospitalar,"R. Alberto Werner, 191 - Vila Operaria, Itajaí",-26.9064687,-48.6689576,hospital
+Incor Marieta,"R. Aderbal Ramos da Silva, 14 - Centro, Itajaí",-26.9100969,-48.6595317,hospital
+Hospital Infantil Pequeno Anjo - HIPA,"Rua João Bauer, 85 - Centro, Itajaí",-26.9083214,-48.662487,hospital
+pronto socorro do coracao,"R. Aderbal Ramos da Silva, 220 - Centro, Itajaí",-26.9097129,-48.6591777,hospital
+UNACON Unidade de Alta Complexidade Oncológica HMKB,"R. Aderbal Ramos da Silva, 81 - Centro, Itajaí",-26.9096163,-48.6589495,hospital
+Hospital Marieta,"Centro, Itajaí",-26.9115321,-48.6598328,hospital
+Santa Catarina Clínica Médica,"R. Hercílio Luz, 338 - sala 27 - Centro, Itajaí",-26.905554,-48.6579613,hospital
+Hospital Universitário Pequeno Anjo - HUPA -Nutrição e Dietética,"R. Brusque, 85 - Centro, Itajaí",-26.9083044,-48.6624834,hospital
+Hospital e Maternidade Marieta Konder Bornhausen :Serviço de Cirurgia Vascular e Angiologia,"Av. Cel. Marcos Konder, 1111 - Centro, Itajaí",-26.9105185,-48.6597062,hospital
+Hamburgueria 1509,"R. João Cunha, 535 - Fazenda, Itajaí",-26.9315812,-48.6519132,restaurant
+Massa Pan Cafeteria Delivery,"R. Lúcio Corrêa de Mendonça, 180 - Fazenda, Itajaí",-26.9250932,-48.65255140000001,restaurant
+Menu caseiro,"Av. Sete de Setembro, 2147 - Fazenda, Itajaí",-26.9238582,-48.6511654,restaurant
+De Luca Sushi Delivery,"R. Lúcio Corrêa de Mendonça, 180 - Fazenda, Itajaí",-26.925069,-48.65252,restaurant
+Big Dog Café,"R. Jorge Tzachel, 350 - Fazenda, Itajaí",-26.9195287,-48.6510675,restaurant
+Mandarim Express,"R. Florianópolis, 100 - Fazenda, Itajaí",-26.9231012,-48.6511127,restaurant
+Bel Mangiare,"Av. Sete de Setembro, 2117 - Fazenda, Itajaí",-26.9237886,-48.65138040000001,restaurant
+Goveg - Especialidades Vegetarianas,"R. Antônio Rocha de Andrade, 127 - Fazenda, Itajaí",-26.9218985,-48.6478446,restaurant
+Manhattan Café,"Av. Sete de Setembro, 1500 - Box 1 - Fazenda, Itajaí",-26.9210466,-48.6539882,restaurant
+Hostel Casa Verde,"R. Antônio Manoel Moreira, 100 - Fazenda, Itajaí",-26.9198368,-48.6518513,hotel
+Hotel Rocha,"Av. Sete de Setembro, 1377 - Fazenda, Itajaí",-26.9180146,-48.6544581,hotel
+Banco Itaú - Agência 6407,"Praça N Sra, Itajaí-Navegantes, 35 - Centro, Navegantes",-26.9002792,-48.6547576,bank
+Banco Santander - Posto de Atendimento da Agência 1614 Navegantes,"Av. João Sacavem, 690 - Sala 01 - Centro, Navegantes",-26.901861,-48.6474565,bank
+Banco Santander - Agência 1614 - Navegantes,"Av. João Sacavem, 571 - Centro, Navegantes",-26.9014394,-48.64897630000001,bank
+BANCO DO BRASIL - NAVEGANTES - Agência 4229,"Av. João Sacavem, 574 - Centro, Navegantes",-26.9018436,-48.648679,bank
+bistek novo pac 192,"R. Heitor Liberato, 1550 - Centro, Itajaí",-26.9070184,-48.6737948,bank
+Mercearia São João Carnes Premium,"R. Stringari, 584 - São João, Itajaí",-26.8993166,-48.6769808,supermarket
+Supermercado Amorim,"R. Avelino Werner, 95 - Barra do Rio, Itajaí",-26.8890034,-48.6728763,supermarket
+Mercearia Verdureira Sant'Anna,"R. Aurora Tabalipa, 64 - São João, Itajaí",-26.9016043,-48.6777242,supermarket
+Mercado e Açougue Tomasi,"R. Alfredo Eicke, 479 - Barra do Rio, Itajaí",-26.8916528,-48.68107759999999,supermarket
+2L Shop,"R. Anibal Gaya - Centro, Navegantes",-26.8942147,-48.657097,store
+BLESSING STORE,"R. Secretário José Schubert Júnior - Centro, Navegantes",-26.8949271,-48.6551822,store
+Store Camisa 10,"Av. Conselheiro João Gaya, 1143 - Centro, Navegantes",-26.8956951,-48.65497269999999,store
+Outlet Store,"Rua, Av. Santos Dumont, Número 131 - Centro, Navegantes",-26.8989929,-48.6555606,store
+Klei Store,"Av. Conselheiro João Gaya, 671 - Centro, Navegantes",-26.8962649,-48.65042800000001,store
+Lupa Store,"Av. Pref. José Juvenal Mafra, 333 - Centro, Navegantes",-26.8986577,-48.647758,store
+DFN Store,"R. Francisco Solano Lopes - Centro, Navegantes",-26.8982576,-48.6511346,store
+ABSESC,"R. Onze de Junho, nº 189 - Fazenda, Itajaí",-26.9213473,-48.6508917,hospital
+Centro Clínico Itajaí,"R. Samuel Heusi, 190 - Centro, Itajaí",-26.903842,-48.6595018,hospital
+Unidade de Atendimento Infantil,"R. Felipe Reiser, 07 - Sala 05 - São João, Itajaí",-26.902844,-48.6714665,hospital
+Restaurante do xande,"R. Est. Renato Vitorino, 240 - Dom Bosco, Itajaí",-26.9236186,-48.677877,restaurant
+M&C Coquetéis,"R. Maria Sedrez, 104 - apto 541 - Fazenda, Itajaí",-26.9315489,-48.6471904,restaurant
+Giraffas,"Av. Osvaldo Reis, 839 - Piso 3 - Fazenda, Itajaí",-26.9294639,-48.6447862,restaurant
+Hotel Marambaia Cabeçudas,"R. Maria Flora Caldeira, 46 - Cabeçudas, Itajaí",-26.929712,-48.63053,hotel
+Villa d'Ozio Hotel e Cucina,"Av. José Medeiros Viêira, 982 - Praia Brava, Itajaí",-26.9441784,-48.6291016,hotel
+Hotel Linhares,"Av. Osvaldo Reis, 2874 - Santa Clara, Itajaí",-26.9481709,-48.6409046,hotel
+HOME IN BOX HOSTEL,"Av. José Medeiros Viêira, 1502 - Praia Brava, Itajaí",-26.9485289,-48.62950360000001,hotel
+Ekaterina Palace - Hotel Boutique e Eventos,"R. Ver. Herminio Gervásio, 139 - Cabeçudas, Itajaí",-26.931232,-48.633399,hotel
+Strastalent Desenvolvimento de Talentos,"R. Eng. João da Rocha Melo, 34 - Cabeçudas, Itajaí",-26.9306274,-48.6344509,bank
+AABB - Athletic Association Bank of Brazil,"Alameda Ernesto Schneider, 129 - Fazenda, Itajaí",-26.9203528,-48.6479747,bank
+BMJ Cred!,"Av.Osvaldo Reis, 2470 Sala 03,04 - Praia Brava, Itajaí",-26.9440893,-48.640278,bank
+Finance do Brasil,"R. Jorge Tzachel, nº 83 - Fazenda, Itajaí",-26.9176535,-48.6527681,bank
+Unicred - Itajaí,"R. Camboriú, 519 - Centro, Itajaí",-26.9125141,-48.6560269,bank
+Supermercado Morelli,"R. Osni Melo, 177 - Fazenda, Itajaí",-26.9300571,-48.646727,supermarket
+HOME STORE BRAVA,"R. Delfim Mário de Pádua Peixoto, Numero: 355 - Praia Brava, Itajaí",-26.943602,-48.6300265,store
+Habbitat Brava Store Habbitat Brava Store,"Av. José Medeiros Viêira, 704 - Praia Brava, Itajaí",-26.9413991,-48.6287448,store
+VANESSA STORE,"R. Lauro Muller, 950 - sala 06 - Fazenda, Itajaí",-26.9137329,-48.6542989,store
+Carites Store,"Av. Ver. Abrahão João Francisco, 1050 - Térreo, Itajaí",-26.914009,-48.6626598,store
+Valentina Store,"Anexo ao Supermercado Giassi - Av. Osvaldo Reis, 839 - 1º andar - Fazenda, Itajaí",-26.9294639,-48.6447862,store
+Tempero Apimentado Sex Shop Centro,"Localizada na sala 2 do Ed. Liberty - Av. Joca Brandão, 553 - Centro, Itajaí",-26.9123973,-48.65905009999999,store
+joy in store,"R. Juvêncio Taváres D'amaral, 540 - Cabeçudas, Itajaí",-26.9285215,-48.6325641,store
+Barauna Men Store,"R. Juvenal García, 387 - Centro, Itajaí",-26.9145981,-48.6655808,store
+Seu Pet Aqui,"R. Brusque, 559 - Centro, Itajaí",-26.9125217,-48.6666165,store
+Jhuan Da Brava Mercado & Conveniencia,"R. Delfim Mário de Pádua Peixoto, 763 - Praia Brava, Itajaí",-26.9474378,-48.6304611,store
+M Store Veiculos,"Av. Osvaldo Reis, 2490 - Fazenda, Itajaí",-26.9442847,-48.6401962,store
+Superlegal Brinquedos,"Av. Osvaldo Reis, 2751 - loja 05 - Praia Brava, Itajaí",-26.9472965,-48.6401755,store
+colossal modas,"R. João Matias Heill - Fazenda, Itajaí",-26.9193766,-48.6578277,store
+Boutique Infantil,"Rua: Dona Maria Medeiros Siemann, Itajaí",-26.9155597,-48.6578361,store
+LIVE! Praia Brava,"Av. José Medeiros Viêira, 13000 - Praia Brava, Itajaí",-26.9451409,-48.62897359999999,store
+Santacosta,"R. Delfim Mário de Pádua Peixoto, 163 - Praia Brava, Itajaí",-26.9418935,-48.6297604,store
+Fama Diversões Eletrônicas,"R. Amaro Jaques, 128 - Fazenda, Itajaí",-26.9244961,-48.6527884,store
+Subway,"Av. Osvaldo Reis, 839 - Sala 308 - Fazenda, Itajaí",-26.9294639,-48.6447862,restaurant
+Naru Sushi,"Av. Osvaldo Reis, 839 - Fazenda, Itajaí",-26.9294639,-48.6447862,restaurant
+Chef Tiago Brasa e Mar,"R. Suécia, 150 - Praia Brava, Itajaí",-26.9547951,-48.6421381,restaurant
+Kao Atalaia frutos do mar,"R. Dep. Francisco Evaristo Canziani, 1203 - Cabeçudas, Itajaí",-26.9181671,-48.6423046,restaurant
+Kadu Frutos do Mar,"R. Dep. Francisco Evaristo Canziani, 1225 - Cabeçudas, Itajaí",-26.9189606,-48.6419664,restaurant
+Supermercado Müller,"R. Avelino Werner - Barra do Rio, Itajaí",-26.8890114,-48.6728114,supermarket
+Lua Clara Legging's,"R. Dr. José Bonifácio Malburg, 535 - Centro, Itajaí",-26.9063552,-48.6613445,store
+sienna store,"R. Heitor Liberato, 1077 - Centro, Itajaí",-26.9056072,-48.6689125,store
+Hospital e Maternidade Santa Luíza,"R. Rouxinol, 99 - Ariribá, Balneário Camboriú",-26.95604,-48.6410243,hospital
+Comida,"Av. Osvaldo Reis - Praia Brava, Itajaí",-26.9404129,-48.6412302,restaurant
+Thai Garden - Asian Cuisine,"Riviera Business & Mall - Av. Osvaldo Reis, 3281 - Sala 23 E 24 - Praia Brava, Itajaí",-26.9525365,-48.6397389,restaurant
+Divino Sushi,"Av. Osvaldo Reis - Praia Brava, Itajaí",-26.9294272,-48.6445923,restaurant
+Alceu Hamburguer na Brasa,"Praia Brava, Itajaí",-26.9535801,-48.64011,restaurant
+ROTA DO MAR PETISCARIA E CONVENIÊNCIA,"R. Florianópolis - Fazenda, Itajaí",-26.9226594,-48.6511524,restaurant
+Chef´s da Brasa,"Av. Osvaldo Reis, 3276 - Praia Brava, Itajaí",-26.9522547,-48.6406333,restaurant
+Restaurante Dos Amores,"Av. Carlos Drummond de Andrade, 409 - Praia dos Amores, Balneário Camboriú",-26.9561878,-48.6336551,restaurant
+Petiscaria Cabeçudas,"R. Floriano Peixoto, 490 - Cabeçudas, Itajaí",-26.9282818,-48.6336899,restaurant
+Disk Menu Almoços Delivery,"Rua Alles Blau, 194 - Praia dos Amores, Balneário Camboriú",-26.9568413,-48.6377951,restaurant
+Marambaia Cassino Hotel,"Av. Atlântica, 300 - Centro, Balneário Camboriú",-26.9725266,-48.6342723,hotel
+Pousada Bravo,"R. Afonso Arinos, 105 - Praia dos Amores, Balneário Camboriú",-26.961267,-48.6298366,hotel
+Alma Brava,"R. Delfim Mário de Pádua Peixoto, 10000 - Praia Brava, Itajaí",-26.9500118,-48.63093509999999,hotel
+Hamburgo Palace Hotel,"R. 1901, 333 - Centro, Balneário Camboriú",-26.976562,-48.638768,hotel
+Hilton Garden Inn Itajaí,"Av. Osvaldo Reis, 3385 - Praia Brava, Itajaí",-26.9533222,-48.63959269999999,hotel
+Marambaia Hotel,"R. Antônio Bitencourt, 10 - Pioneiros, Balneário Camboriú",-26.9719759,-48.63847120000001,hotel
+Hotel Brut by Slaviero Hotéis,"R. 1901, 269 - Centro, Balneário Camboriú",-26.9766781,-48.63802399999999,hotel
+Positive Hostel,"R. Protásio B. Caetano, 132 - Pioneiros, Balneário Camboriú",-26.9727923,-48.6371581,hotel
+Nômades Pousada,"R. Justiniano Neves, 90 - Pioneiros, Balneário Camboriú",-26.9708545,-48.6338625,hotel
+Hotel do Bosque Balneário Camboriú,"Av. Brasil, 22 - Pioneiros, Balneário Camboriú",-26.974914,-48.6370315,hotel
+Pousadas Ondas da Brava,"Av. José Medeiros Viêira, 2470 - Praia Brava, Itajaí",-26.9573063,-48.62959559999999,hotel
+HM HOTEL,"R. Mil Novecentos e Um, 291 - Centro, Balneário Camboriú",-26.9766364,-48.6383357,hotel
+Hotel Pousada Reimar,"Av. Ruy Barbosa, 295 - Praia dos Amores, Balneário Camboriú",-26.9589319,-48.631938,hotel
+H HOTEL,"R. 1931, 201 - Centro, Balneário Camboriú",-26.9760609,-48.6385167,hotel
+Canto da Brava,"R. Machado de Assis, 26 - Praia dos Amores, Balneário Camboriú",-26.960244,-48.628586,hotel
+Pousada Balneário Camboriú,"R. Jacob Schmidt, 180 - Pioneiros, Balneário Camboriú",-26.9706407,-48.6359012,hotel
+Recanto Sete Mares,"R. Cecília Meireles, 206 C - Praia dos Amores, Balneário Camboriú",-26.9550786,-48.6352363,hotel
+FIX BANK BANCO DIGITAL,"Av. Osvaldo Reis, 3385 - Praia Brava, Itajaí",-26.9533222,-48.63959269999999,bank
+BANCO DO BRASI,"Av. do Estado Dalmo Vieira, 799 - Praia dos Amores, Balneário Camboriú",-26.9631084,-48.6394794,bank
+WTM do Brasil,"R. Rouxinol, 315 - Andar 3 - Ariribá, Balneário Camboriú",-26.9527729,-48.6389852,bank
+Yaah,"Av. Osvaldo Reis, nº 3281 - sala 1405 - Praia Brava, Itajaí",-26.9523187,-48.6397494,bank
+Angelina Supermarket,"Av. Osvaldo Reis, 3585 - Praia Brava, Itajaí",-26.955054,-48.639988,supermarket
+Mercearia Noca,"R. Agostinho Lemos de Camargo, 46 - Praia Brava, Itajaí",-26.9565443,-48.6438414,supermarket
+Dmarket Supermercados,"Av. Brasil, 161 - Pioneiros, Balneário Camboriú",-26.9711176,-48.6344135,supermarket
+Mercearia Vitória,"Praia Brava, Itajaí",-26.9564894,-48.64426719999999,supermarket
+Pratico Supermercado Praia Brava,"R. Carola Coelho, 177 - Praia Brava, Itajaí",-26.955864,-48.6315853,supermarket
+Dubom Supermercados,"R. Gaturamo, 165 - Ariribá, Balneário Camboriú",-26.9672822,-48.6400954,supermarket
+Mercado e Açougue tomasi,"Av. dos Tucanos, 250 - Ariribá, Balneário Camboriú",-26.9713238,-48.6436204,supermarket
+Emporio Barra Norte,"Av. Osvaldo Reis, 2526 - Fazenda, Itajaí",-26.9445545,-48.6402143,supermarket
+Brasil Itajai praia brava,"Av. Osvaldo Reis, 2819 - Fazenda, Itajaí",-26.946279,-48.640165,supermarket
+Ibra Delivery,"Av. das Arapongas, 1265 - Ariribá, Balneário Camboriú",-26.9609572,-48.6504175,store
+Aleccra Store,"Av. Carlos Drummond de Andrade, 327 - Praia dos Amores, Balneário Camboriú",-26.9562896,-48.6327827,store
+"Armazém Fit Store Praia Brava: Alimentação Saudável, Suplementos em Itajaí","R. Delfim Mário de Pádua Peixoto, 901 - Loja 1 - Praia Brava, Itajaí",-26.9489207,-48.6305983,store
+TM Store,"Av. Carlos Drummond de Andrade - Praia Brava, Itajaí",-26.9559475,-48.6340786,store
+Tennis House Brava,"Av. Ruy Barbosa, 135 - Praia Brava, Balneário Camboriú",-26.9559532,-48.6329576,store
+Nia Selects,"Av. Carlos Drummond de Andrade, 200 - Sala 8 - Praia Brava, Itajaí",-26.9559825,-48.63178509999999,store
+Mabí Store,"Av. Carlos Drummond de Andrade, 177 - sala 03 - Praia Brava, Itajaí",-26.956423,-48.6319688,store
+"Allita Colchões - Autorizada F.A. Colchões - Balneário Camboriú - SC / Loja de Colchões, travesseiros e acessórios","Av. do Estado Dalmo Vieira, 570 - Ariribá, Balneário Camboriú",-26.9601984,-48.6400124,store
+La Plage Beachwear|E-Commerce com Frete Grátis,"Av. Carlos Drummond de Andrade, 200 - Sala 7 - Praia Brava, Itajaí",-26.9560807,-48.6319293,store
+Su Modas e Cosméticos,"R. José Tomaz da Rocha - Santa Clara, Itajaí",-26.9491679,-48.641768,store
+Moveis,"Praia Brava, Itajaí",-26.9551577,-48.64055159999999,store
+Loja Natura Itajaí - Amor pela Beleza,"Av. Osvaldo Reis, 839 - Sala 203 - Fazenda, Itajaí",-26.9291202,-48.64466669999999,store
+Chez Raymond,"R. Floriano Peixoto, 610 - Cabeçudas, Itajaí",-26.929258,-48.6330878,restaurant
+Gema,"R. Carola Coelho, 215 - sala 11 - Praia Brava, Itajaí",-26.9558326,-48.6320061,restaurant
+Doce Sal Bistrô,"R. Quintino Bocaiúva, 489 - Cabeçudas, Itajaí",-26.9281225,-48.6334167,restaurant
+The Corner Sushi Club,"R. Teresa Francisca Pereira, 225 - Cabeçudas, Itajaí",-26.928835,-48.635148,restaurant
+Felissimo,"R. Lindolf Bell, 201 - Praia dos Amores, Balneário Camboriú",-26.9567992,-48.6373967,restaurant
+Orla 47,"R. Carola Coelho, 44 - Praia Brava, Itajaí",-26.9558273,-48.6320489,restaurant
+Holy Moly! MH XXX Restaurant,"Conselheiro Júlio Kumm, 200 - Praia Brava, Itajaí",-26.953125,-48.6314851,restaurant
+Drummond,"Av. Carlos Drummond de Andrade, 70 - Praia Brava, Balneário Camboriú",-26.956291,-48.630272,restaurant
+Shantal Restaurante,"R. Delfim Mário de Pádua Peixoto, 500 - Praia Brava, Itajaí",-26.9445831,-48.63049609999999,restaurant
+Esquina da Brava Restaurante,"R. André Luís Vidal Soares, 123 - Praia Brava, Itajaí",-26.9455346,-48.6303535,restaurant
+Restaurante Didge Steakburger,"R. Delfim Mário de Pádua Peixoto, 500 - Loja B8 - Praia Brava, Itajaí",-26.9444621,-48.6311154,restaurant
+Casa Gastronomia - Food Truck,"Av. Carlos Drummond de Andrade, 141 - Praia Brava, Itajaí",-26.9565494,-48.6313252,restaurant
+Pousada do Sabia,"Av. Pref. Cirino Adolfo Cabral, 491 - São Pedro, Navegantes",-26.9040354,-48.6444696,hotel
+Melanina Mix,"190, R. Delfim Mário de Pádua Peixoto, 66 - Praia Brava, Itajaí",-26.9418347,-48.6301297,restaurant
+Fat Jack Bar e Bistrô,"R. Renato Melim Cunha, 390 - Praia Brava, Itajaí",-26.9439356,-48.6296524,restaurant
+Águas da Brava Restaurante e Eventos,"Av. José Medeiros Viêira, 1776 - Praia Brava, Itajaí",-26.9511329,-48.6298256,restaurant
+ganusch,"R. Delfim Mário de Pádua Peixoto - Praia Brava, Itajaí",-26.9486514,-48.6306442,restaurant
+Pasión - Cocina y Arte,"R. Delfim Mário de Pádua Peixoto, 799 - Praia Brava, Itajaí",-26.9478196,-48.6309118,restaurant
+Choppempé SC,"R. Delfim Mário de Pádua Peixoto, 500 - Praia Brava, Itajaí",-26.9447324,-48.6311592,restaurant
+Felissimo Exclusive Hotel,"R. Lindolf Bell, 201 - Praia dos Amores, Balneário Camboriú",-26.9569169,-48.63712820000001,hotel
+Hotel Joao De Barro,"R. Vergínia Ângelo Severino, 37 - Praia Brava, Itajaí",-26.958749,-48.6299018,hotel
+Brava Ocean Grill,"Av. José Medeiros Viêira, N° 1190 - Praia Brava, Itajaí",-26.9461689,-48.6291822,restaurant
+Baobá Bar e Restaurante,"Av. José Medeiros Viêira, 1008 - Praia Brava, Itajaí",-26.944355,-48.6290905,restaurant
+Enjoy Beach food,"Av. José Medeiros Viêira - Praia Brava, Itajaí",-26.945142,-48.6290431,restaurant
+Infinity Blue Resort & Spa,"Av. Ruy Barbosa, 1000 - Praia dos Amores, Balneário Camboriú",-26.9670046,-48.6294475,hotel
+ATALAIA GRILL RESTAURANTE,"R. Brusque, 1229 - Centro, Itajaí",-26.9174592,-48.6707889,restaurant
+Restaurante Martikaias,"R. Brusque, 1148 - Centro, Itajaí",-26.9166507,-48.6703884,restaurant
+Tex Burger,"Av. Ver. Abrahão João Francisco, 25a - Centro, Itajaí",-26.9185728,-48.6670509,restaurant
+Restaurante Verde Vale comida caseira,"R. Indaial, 519 - Dom Bosco, Itajaí",-26.9168339,-48.67731250000001,restaurant
+Estação Burger,"R. José Pereira Liberato, 3120 - Dom Bosco, Itajaí",-26.9195139,-48.68499,restaurant
+Planas Hotel em Itajaí,"R. Alberto Werner, 109 - Centro, Itajaí",-26.9045479,-48.6687739,hotel
+HOT DOG DA FAMILIA,"R. Imbituba, 167 - Dom Bosco, Itajaí",-26.9183769,-48.6791976,restaurant
+Daywa Sushi,"R. Indaial, 229 - São Judas, Itajaí",-26.9194378,-48.6774822,restaurant
+Banco Itaú - Agência 6382,"R. Heitor Liberato, 1950 - São João, Itajaí",-26.9080915,-48.677319,bank
+Banco Bradesco - Agência 3962,"R. Heitor Liberato, 1917 - Centro, Itajaí",-26.9082422,-48.6769459,bank
+Banco Itaú,"R. Indaial, 1454 - São João, Itajaí",-26.9080811,-48.677428,bank
+BANCO DO BRASIL - SAO JOAO - Agência 4295,"R.HEITOR LIBERATO,1951 - ESQ.C, R. Indaial, Itajaí",-26.9083645,-48.6773512,bank
+Maldaner Express Market,"Av. Pref. José Juvenal Mafra, 1892 - Centro, Navegantes",-26.8846889,-48.64544,supermarket
+Supermercados Koch,"R. José Pereira Liberato, 1190 - São João, Itajaí",-26.9020977,-48.6846886,supermarket
+77 Points Store,"R. Sebastião Romeu Soares - Cordeiros, Itajaí",-26.8834351,-48.69763709999999,store
+Hype store br,"R. Sebastião Romeu Soares, 308 - sala 01 - Cordeiros, Itajaí",-26.88349,-48.6972265,store
+Hospital e Maternidade Marieta Konder Bornhausen :Serviço de Urologia,"Av. Cel. Marcos Konder, 1111 - Centro, Itajaí",-26.9105185,-48.6597062,hospital
+Restaurante Sampaio,"R. Indaial, 398 - Dom Bosco, Itajaí",-26.9178849,-48.67712239999999,restaurant
+Restaurante Bellé,"Av. Sete de Setembro, 1307 - Fazenda, Itajaí",-26.917543,-48.6546707,restaurant
+Caprezii Parrilla e Defumados,"Av. Min. Victor Konder, 1100 - Fazenda, Itajaí",-26.9168061,-48.6522526,restaurant
+Azdora Piadineria Itajaí,"Av. Min. Victor Konder, 1150 - Fazenda, Itajaí",-26.917131,-48.6519874,restaurant
+Restaurante Bokerão Dupera,"Av. Min. Victor Konder, 1230 - Fazenda, Itajaí",-26.917652,-48.651538,restaurant
+TOP BANK INVEST,"R. José Pereira Liberato, 1123 - Sala 2 - São João, Itajaí",-26.9018573,-48.6830016,bank
+Banco Bradesco Ag Barra do Rio,"R. Alfredo Eicke, 341 - Barra do Rio, Itajaí",-26.8916253,-48.68021299999999,bank
+Manoel Consórcio,"São João, Itajaí",-26.8950524,-48.6766804,bank
+Sicob Blucredi,"R. Estefano José Vanolli, 341-391 - São Vicente, Itajaí",-26.8975836,-48.6885465,bank
+Itaú,"R. Ver. Nereu Liberato Nunes, 124 - Centro, Navegantes",-26.8944712,-48.6550999,bank
+Mini Mercado Gm,"R. João Cunha, 247 - Fazenda, Itajaí",-26.9317896,-48.6522155,supermarket
+Via Gastronômica,"R. Júlio Coutinho - Fazenda, Itajaí",-26.917736,-48.6513917,restaurant
+Restaurante Sabor da Cozinha,"Av. Sete de Setembro, 1289 - Fazenda, Itajaí",-26.9173119,-48.6547732,restaurant
+Finance Assessoria,"Av. do Estado Dalmo Vieira, 1771 - Pioneiros, Balneário Camboriú",-26.9723752,-48.6385979,bank
+Unicred - Balneário Camboriú,"Av. do Estado Dalmo Vieira, 1714 - sala 02 - Ariribá, Balneário Camboriú",-26.9716432,-48.639321,bank
+Parana Banco,"R. 1301, 465 - sala 3 - Centro, Balneário Camboriú",-26.9785913,-48.63979130000001,bank
+BP - Promotora de Crédito,"R. 1401, 374 - sala 3 - Centro, Balneário Camboriú",-26.9780362,-48.63891659999999,bank
+Best Soluções Financeiras,"Pacífico Empresarial - Av. do Estado Dalmo Vieira, 2425 - Centro, Balneário Camboriú",-26.9768112,-48.6391845,bank
+Supply Invest Company,"R. Suíça - Nações, Balneário Camboriú",-26.9753237,-48.6433755,bank
+Meschke Supermarkets,"Av. do Estado Dalmo Vieira, 2848 - Nações, Balneário Camboriú",-26.9804266,-48.64096379999999,supermarket
+Superkock,"R. 1061, 455 - Centro, Balneário Camboriú",-26.9826946,-48.6360202,supermarket
+Mini Mercado Espaço Central - Balneario Camboriú,"Av. Central, 𝟒𝟓𝟔 - Sala 2 - Centro, Balneário Camboriú",-26.9882031,-48.6357491,supermarket
+Mercado Express,"Avenida central, 784 - esquina com rua 801 - Centro, Balneário Camboriú",-26.9872188,-48.638892,supermarket
+Koch Express - Balneário Camboriú,"R. 1061, 105 - Centro, Balneário Camboriú",-26.9825003,-48.636737,supermarket
+Supermercado Facility,"Av. Central, 169 - Centro, Balneário Camboriú",-26.9884697,-48.6331778,supermarket
+Via Rápida Mercado,"Rua 1400, 429 - Centro, Balneário Camboriú",-26.991115,-48.63390889999999,supermarket
+Supermercado Meschke - Matriz,"Av. do Estado Dalmo Vieira, 3103 - Centro, Balneário Camboriú",-26.9825392,-48.6399402,supermarket
+Mil e Meio Mercado,"Rua 1500, 381 - Sala 3 - Centro, Balneário Camboriú",-26.9911916,-48.6331078,supermarket
+Mini Mercado e Armazém Rajab,"R. 908, 25 - Centro, Balneário Camboriú",-26.9900861,-48.6338954,supermarket
+Mini Mercado Palestina,"Av. Palestina, 1001 - Nações, Balneário Camboriú",-26.9743992,-48.645855,supermarket
+Mercearia Mila,"R. Paquistão, 556 - Nações, Balneário Camboriú",-26.9766137,-48.6534232,supermarket
+Meschke Supermercados - Filial 1,"Av. do Estado Dalmo Vieira, 1751 - Pioneiros, Balneário Camboriú",-26.9727194,-48.6388112,supermarket
+OFERTÃO BC,"Av. Central, 74 - Centro, Balneário Camboriú",-26.9879478,-48.6325641,supermarket
+Dubom Supermarkets,"533-575 - R. Noruega - Nações, Balneário Camboriú",-26.9779206,-48.6462933,supermarket
+Supermercados Imperatriz,"3ª avenida com a R. 1822, S/N Centro, Balneário Camboriú",-26.9944001,-48.6364935,supermarket
+Angeloni,"Av. do Estado Dalmo Vieira, 2440 - Centro, Balneário Camboriú",-26.9765302,-48.64021839999999,supermarket
+Safari store,"R. 1061 - Centro, Balneário Camboriú",-26.9820718,-48.6386128,store
+Aguia Store conveniencia,"R. 1001 - Centro, Balneário Camboriú",-26.9835608,-48.6367099,store
+Galore Store,"R. 908, 40 - Centro, Balneário Camboriú",-26.9898849,-48.6339938,store
+Conveniencia 1500,"Rua 1500, 430 - Centro, Balneário Camboriú",-26.9915951,-48.6341499,store
+London Conveniência,"Rua 1500, 35 - Centro, Balneário Camboriú",-26.9893272,-48.63053799999999,store
+Open Wine Store,"Rua 2028, 125 Sala 10, Esquina Rua 2000 Centro, Balneário Camboriú",-26.9942304,-48.6337133,store
+Beauty Store Cosméticos,"Rua 1500, 577 Ed. Coliseum Centro, Balneário Camboriú",-26.9927303,-48.6353953,store
+Do Gole Liquor Store,"Av. Alvin Bauer, 108 - Centro, Balneário Camboriú",-26.9884729,-48.6379909,store
+West Hill Store,"R. Acre, 235 - Estados, Balneário Camboriú",-26.9947624,-48.6482067,store
+VHB Stores,"Av. Brasil, 1789 - Loja 12 - Centro, Balneário Camboriú",-26.9895432,-48.6325726,store
+Filippa Store,"Av. Martin Luther, 1060 - sala 04 - Nações, Balneário Camboriú",-26.9802804,-48.6417965,store
+And Store,"R. 900, 90 - Centro, Balneário Camboriú",-26.9894708,-48.6341287,store
+Armazém Fit Store | Balneário Camboriú,"Av. Alvin Bauer, 4 - Centro, Balneário Camboriú",-26.9857135,-48.6338915,store
+M Store,"R. 2300, Sala 02 - Centro, Balneário Camboriú",-26.9930949,-48.6298641,store
+Ithy Store,"Rua 200, n 30 - apto 2301 - Centro, Balneário Camboriú",-26.9878361,-48.6384094,store
+Convés Store,"CVC - Av. Brasil, 1271 Sala QL 03, em frente a - Centro",-26.9854621,-48.6345347,store
+Pro Pet Store,"Av. do Estado Dalmo Vieira, 2848 - Nações, Balneário Camboriú",-26.9802077,-48.6420878,store
+Hospital Unimed,"Av. do Estado Dalmo Vieira, 1550 - Ariribá, Balneário Camboriú",-26.9699707,-48.639586,hospital
+HOSPITAL VIDA,"Av. do Estado Dalmo Vieira, 1690 - Ariribá, Balneário Camboriú",-26.971112,-48.6393733,hospital
+Hospital do Coração,"R. Arthur Max Doose, 180 - Pioneiros, Balneário Camboriú",-26.9735272,-48.6383901,hospital
+ISEV Instituto de Saúde e Educação,"Av. do Estado Dalmo Vieira, 1690 - Ariribá, Balneário Camboriú",-26.971112,-48.6393733,hospital
+Centro Médico - Menara Medical Center,"Av. do Estado Dalmo Vieira, 1714 - Ariribá, Balneário Camboriú",-26.9716022,-48.6393143,hospital
+A luz do maternar,"R. Peru, 275 - Nações, Balneário Camboriú",-26.9769984,-48.6424556,hospital
+Edifício centro empresarial alice,"3ª Avenida, 904 - Centro, Balneário Camboriú",-26.994112,-48.6362009,hospital
+Hospital do Coração Balneário Camboriu : Neurologia,"R. Arthur Max Doose, 180 - Pioneiros, Balneário Camboriú",-26.9735159,-48.6383879,hospital
+Hospital veterinário,"R. 2850 - Centro, Balneário Camboriú",-26.9991517,-48.6317228,hospital
+Barra Norte Centro Médico Empresarial,"183, R. Arthur Max Doose, 127 - Pioneiros, Balneário Camboriú",-26.9737655,-48.6376841,hospital
+Hospital do Coração Balneário Camboriu - Anestesiologia,"R. Arthur Max Doose, 180 - Pioneiros, Balneário Camboriú",-26.9735159,-48.6383879,hospital
+Centro Médico Catarinense,"R. Dinamarca, 141, Sala 304 - Nações, Balneário Camboriú",-26.986845,-48.6410893,hospital
+Navega Beach Palace Hotel,"Av. Pref. Cirino Adolfo Cabral, 1321 - Centro, Navegantes",-26.8968244,-48.6435436,hotel
+Banco Itaú - Agência 8490,"Av. do Estado Dalmo Vieira, 3277 - Centro, Balneário Camboriú",-26.9845434,-48.6397486,bank
+Santander ATM,"Av. do Estado Dalmo Vieira, 2878 - Centro, Balneário Camboriú",-26.9812753,-48.6400738,bank
+Correspondente Caixaaqui,"R. Marrocos, 33 - SALA 4 - Nações, Balneário Camboriú",-26.9800893,-48.6406017,bank
+Banrisul,"Av. Brasil, 1271 - Centro, Balneário Camboriú",-26.9859135,-48.6350199,bank
+BANCO DO BRASIL - BALNEÁRIO CAMBURIU - Agência 1489,"Av. do Estado Dalmo Vieira, 3277 - Centro, Balneário Camboriú",-26.9842813,-48.6397807,bank
+Banrisul S.A. - Banco Do Estado Do RGS S.A.,"Av. Brasil, 1271 - Centro, Balneário Camboriú",-26.98584,-48.6351908,bank
+ATM Bank of Brazil,"Av. Brasil, 1271 - Centro, Balneário Camboriú",-26.9857116,-48.6347,bank
+BANCO DO BRASIL,"Ariribá, Balneário Camboriú",-26.9627313,-48.6399639,bank
+New Bank,"Centro, Balneário Camboriú",-26.985998,-48.636382,bank
+Supermercado D Paula,"Rua 2380 - Centro, Balneário Camboriú",-26.9989079,-48.638757,supermarket
+Supermercado Mais Brasil,"Av. Brasil, 2616 - Centro, Balneário Camboriú",-26.9958191,-48.6279599,supermarket
+Mercado 24 Horas Espaço Brasil,"Av. Brasil, 2750 - Centro, Balneário Camboriú",-26.9969912,-48.6272694,supermarket
+Supermercado Summer,"R. 3100, 826 - Sala 01 - Centro, Balneário Camboriú",-27.0022649,-48.6302478,supermarket
+Mercado Vivenda Express,"R. 3100, 826 - Centro, Balneário Camboriú",-27.0022439,-48.6303324,supermarket
+Mecado da vila 2 / antigo Supermercado Gaúcho I,"5ª Avenida, 700 - Municípios, Balneário Camboriú",-27.0030487,-48.6413994,supermarket
+Dk Store - Revenda e Assistência Apple,"R. 500, 250 - sala 09 - Centro, Balneário Camboriú",-26.9894321,-48.6387508,store
+All Black Store,"R. 1101, 522 - Loja A - Centro, Balneário Camboriú",-26.9812915,-48.6396319,store
+Ávila Store Boutique,"Rua 904, 521 - Centro, Balneário Camboriú",-26.9923969,-48.6384397,store
+Ls Store moda feminina,"511, Balneário Camboriú",-26.9858627,-48.6354767,store
+Hospital Municipal e Maternidade Ruth Cardoso,"R. Angelina, s/n - Municípios, Balneário Camboriú",-27.0065515,-48.6375004,hospital
+Hospital Dia,"R. 2350, 1245 - Centro, Balneário Camboriú",-27.0004623,-48.6411029,hospital
+Angelina Sao Francisco De Assis_sc,"R. Angelina - São Francisco de Assis, Balneário Camboriú",-27.005498,-48.6379156,hospital
+melhores medicos,"R. Dom Sebastião, 617 - Vila Real, Balneário Camboriú",-27.010588,-48.6281292,hospital
+Rico Bar e Restaurante,"R. Juvêncio Taváres D'amaral, 400 - Cabeçudas, Itajaí",-26.9275839,-48.6334277,restaurant
+Sushiarte Brava,"R. Delfim Mário de Pádua Peixoto, 1400 - Praia Brava, Itajaí",-26.9531242,-48.6313997,restaurant
+UNIZUSHI,"BRAVA MALL - R. Delfim Mário de Pádua Peixoto, 500 - Praia Brava, Itajaí",-26.9444621,-48.6311154,restaurant
+OPIS Bar & Restaurant,"Avenida José Medeiros Viêira, Balneário, 1126 - Santa Clara, Itajaí",-26.9454044,-48.6293242,restaurant
+Tumanja Burguer - Hambúrgueria,"Av. José Medeiros Viêira, 1126 - Praia Brava, Itajaí",-26.9454314,-48.6292481,restaurant
+SantoBurger,"R. Brusque, n°1205 - Centro, Itajaí",-26.9173075,-48.67089379999999,restaurant
+Terral,"R. Uruguai, 458 - Bloco D3 - Centro, Itajaí",-26.916447,-48.664949,restaurant
+Bagalho pão de alho,"R. Adele Schoenau - Fazenda, Itajaí",-26.9172326,-48.6603726,restaurant
+Primo Culinária Árabe,"Av. Sete de Setembro, 1138 - Fazenda, Itajaí",-26.9161837,-48.6555523,restaurant
+Charlestown Food Park,"Av. Min. Victor Konder, 970 - Fazenda, Itajaí",-26.9159218,-48.65295219999999,restaurant
+Soul Verde Fresh Food,"Anexo ao Charlestown food park - R. Lauro Muller, 1251 - Fazenda, Itajaí",-26.9159137,-48.652813,restaurant
+Toro Loco - Comida Mexicana - Itajaí,"Av. Min. Victor Konder, 970 - Bloco - Fazenda, Itajaí",-26.9159208,-48.6529455,restaurant
+Barra Norte Hotel,"R. Julieta Lins, 429 - Pioneiros, Balneário Camboriú",-26.9711064,-48.637557,hotel
+Banco do Brasil Auto-atendimento,"Av. Atlântica, 2174 - Centro, Balneário Camboriú",-26.9883941,-48.6310746,bank
+Banco Santander - Agência 3872 e Select 1214 - Balneário Camboriu,"Av. do Estado Dalmo Vieira, 2901 - Centro, Balneário Camboriú",-26.9811686,-48.63986,bank
+BANCO DO BRASIL - ESTILO BALN.CAMBORIU - Agência 5052,"Av. Brasil, 1670 - Centro, Balneário Camboriú",-26.9889752,-48.6334842,bank
+Banco do Brasil Estilo,"Av. Brasil, 1670 - Centro, Balneário Camboriú",-26.9887868,-48.63341639999999,bank
+IBIS KITCHEN,"R. Vereador Abrahao J F, 587 - Centro, Itajaí",-26.9137613,-48.6586865,restaurant
+Monte Líbano Shawarma's,"Av. Ver. Abrahão João Francisco, 1210 - Sala 1 - Centro, Itajaí",-26.9148682,-48.6642096,restaurant
+Tentação do Mate (UNIVALI C3),"R. Uruguai, 458 - Centro, Itajaí",-26.915747,-48.664034,restaurant
+Alexandria Burger Itajaí,"R. José Paulo da Silva, 258 - Centro, Itajaí",-26.9144683,-48.66355249999999,restaurant
+NA GARAGEM - COZINHA CRIATIVA,"R. Jorge Mattos, 286 - Centro, Itajaí",-26.9144009,-48.6643391,restaurant
+Kaishū SUSHI,"R. Brusque, 888 - Centro, Itajaí",-26.9146552,-48.6686728,restaurant
+Hospedagem Navegantes,"Centro, Navegantes",-26.8953407,-48.6568434,hotel
+"Café, Bar & Restaurante Soleil","Av. Ver. Abrahão João Francisco, 587 - térreo - Centro, Itajaí",-26.9137792,-48.65874480000001,restaurant
+Spoleto Itajaí,"R. Domingos José Cabral, 355 - Fazenda, Itajaí",-26.9143444,-48.6567666,restaurant
+Beth Bistro e Restaurante,"R. Camboriú, 647 - Fazenda, Itajaí",-26.9135701,-48.6561424,restaurant
+O2 Life Restaurant,"R. Tubarão, 77 - Fazenda, Itajaí",-26.9140111,-48.6541989,restaurant
+Frassini Trattoria,"R. Lauro Muller, 1067 - Fazenda, Itajaí",-26.9146151,-48.6538405,restaurant
+La Lija Restaurante,"R. Camboriú, 813 - Fazenda, Itajaí",-26.9149253,-48.6550725,restaurant
+Supermercado Eliani,"R. São Joaquim, 180 - São Vicente, Itajaí",-26.8980251,-48.6868777,supermarket
+Supermercado Ninõ,"R. Adolfo José de Assis - Cordeiros, Itajaí",-26.8918322,-48.692002,supermarket
+Supermercado Daiane,"Rua.: Amapá, 135 - Cordeiros, Itajaí",-26.8962586,-48.69582339999999,supermarket
+TJ STORE,"R. Silvestro Moser, 343 - Cordeiros, Itajaí",-26.8805792,-48.6947718,store
+DA TRIBO Store,"R. Christiane do Nascimento, 235 - Cordeiros, Itajaí",-26.8847216,-48.6989192,store
+Zebuíno Parrilla e BBQ,"R. José Paulo da Silva, 179 - Centro, Itajaí",-26.9140263,-48.6627654,restaurant
+Restaurante e Lanchonete Tempero Caseiro,"Av. Gov. Adolfo Konder, 700 - São Vicente, Itajaí",-26.9122788,-48.6916997,restaurant
+Planeta Foods - Restaurante e Lanchonete em Itajai,"R. Indaial, 911 - São Judas, Itajaí",-26.9134474,-48.67737400000001,restaurant
+Buccanas,"R. Saúl Schead dos Santos, 462 - São Vicente, Itajaí",-26.9108731,-48.6942622,restaurant
+Bistrô Casa Du Chef,"Av. Sete de Setembro, 725 - Centro, Itajaí",-26.9126826,-48.6566994,restaurant
+Restaurante Segredos do Sabor Chef Edson- Itajaí,"Av. Min. Victor Konder, 592 - Fazenda, Itajaí",-26.9132342,-48.6539456,restaurant
+Hamud's Culinária Árabe,"R. Lauro Muller, 935 - Fazenda, Itajaí",-26.9134047,-48.654044,restaurant
+Resenha Bar,"Av. Min. Victor Konder, 540 - Fazenda, Itajaí",-26.9127975,-48.65373,restaurant
+Adry Hotel,"R. Blumenau, 1265 - São João, Itajaí",-26.8940598,-48.6745927,hotel
+Hotel Silva,"R. David Adão Schmitt, 328 - Barra do Rio, Itajaí",-26.89261,-48.685273,hotel
+Hotel Souza,"R. Jassão dos Santos, 44 - São João, Itajaí",-26.8940465,-48.6755953,hotel
+Itajaí Pousada B&B,"Nova Brasilia - R. Roseli Maria Coelho, 55 - São Vicente, Itajaí",-26.8955363,-48.68776099999999,hotel
+Sicredi,"R. Estefano José Vanolli, 284 - São Vicente, Itajaí",-26.8967094,-48.6887772,bank
+Supermercado Campos Novos,"Av. Campos Novos, 470 - São Vicente, Itajaí",-26.9051435,-48.70056779999999,supermarket
+Supermercado Clovis,"R. Prof. Cosme Busarello, 535 - Cordeiros, Itajaí",-26.8831815,-48.7021941,supermarket
+Mercado e Açougue da Família,"R. Luís da Silva, 476 - Cordeiros, Itajaí",-26.883279,-48.6996915,supermarket
+Fran,"R. José Lopes - Cordeiros, Itajaí",-26.8954222,-48.7037837,supermarket
+Supermarket Santo Angelo,"R. Manoel Francisco Coelho, 1024 - São Vicente, Itajaí",-26.9017841,-48.6980142,supermarket
+Supermercados Schmit,"R. Dr. Reinaldo Schmithausen, 2126 - Cordeiros, Itajaí",-26.8878368,-48.7029542,supermarket
+Mercado Seller,"Av. Nilo Bittencourt - São Vicente, Itajaí",-26.9132613,-48.70518089999999,supermarket
+Supermercado Central Das Compras,"R. Henrique Bianchini, 765 - Cordeiros, Itajaí",-26.8808702,-48.7037216,supermarket
+Mercearia Cabral,"R. Eurípedes Amorim Leal, 611 - Cordeiros, Itajaí",-26.8811615,-48.69862670000001,supermarket
+Mini Mercado Angélica Mateus,"R. Pedro Camilo Vicente, 479 - Cordeiros, Itajaí",-26.8888367,-48.6900091,supermarket
+Blessed store,"R. Francisco de Paula Seara, n. 701 - São Paulo, Navegantes",-26.8775957,-48.6615384,store
+Elisie Store,"Rua Gracilides Coelho Reiser, 640 - Sala 02 - São Domingos, Navegantes",-26.884731,-48.661624,store
+AOV STORE,"R. José Francisco Laurindo, 545 - São Domingos, Navegantes",-26.8809888,-48.6663252,store
+GENET'S STORE,"R. Estefano José Vanolli, 463 - São Vicente, Itajaí",-26.898294,-48.6885434,store
+unidade parque amorim,"R. Fernando Viêira - Cordeiros, Itajaí",-26.8857981,-48.69254189999999,hospital
+Clínica Alemã,"R. Felipe Reiser, 07 - Sala 05 - São João, Itajaí",-26.902844,-48.6714665,hospital
+Madero Container Itajaí,"Av. Min. Victor Konder, 490 - Fazenda, Itajaí",-26.912409,-48.653731,restaurant
+Mercearia Cota,"B. do Olavo, n100 - São Pedro, Navegantes",-26.9068863,-48.6473333,supermarket
+Supermercado Ofertão Vila,"R. Alberto Werner, 237 - SL 02 - Centro, Itajaí",-26.9073512,-48.6691418,supermarket
+Emergência Hospital Universitário Pequeno Anjo,"Praça Gov. Irineu Bornhausen, 85 - Centro, Itajaí",-26.9083328,-48.6622564,hospital
+Genud's Bistrô,"R. Acedilio Monteiro de Lima, 82 - São Vicente, Itajaí",-26.9100701,-48.6991569,restaurant
+Don Juan Restaurante,"Anexo ao Supermercado, Angeloni - R. Brusque - Centro, Itajaí",-26.9105521,-48.6669492,restaurant
+Restaurante e Café a Casa do Chef,"Em frente ao Hospital Marieta - Av. Cel. Marcos Konder, 1040 - Centro, Itajaí",-26.9106492,-48.6603414,restaurant
+Restaurante Mascarenhas,"R. Indaial, 1184 - São Judas, Itajaí",-26.9108511,-48.6772795,restaurant
+Aromas e Sabores Centro,"Restaurante Aromas e Sabores - Av. Cel. Marcos Konder, 1111 - Centro, Itajaí",-26.910406,-48.659358,restaurant
+Pontinho do Café Lanchonete & Restaurante,"R. Ver. João Angelino Lopes Júnior, nº 186 - Centro, Itajaí",-26.9108956,-48.6593869,restaurant
+Banco Itaú - Agência 7365,"Schmit 1623, R. Dr. Reinaldo Schmithausen - Cordeiros, Itajaí",-26.8868077,-48.6981663,bank
+BANCO DO BRASIL - CORDEIROS - Agência 2982,"R. Dr. Reinaldo Schmithausen, 2326 - Cordeiros, Itajaí",-26.88765,-48.70584789999999,bank
+Rede Check Ok,"R. Heitor Liberato, 1950 - São João, Itajaí",-26.9080908,-48.6773168,bank
+AB Finanças - Inteligência Financeira Global,"Av. Getúlio Vargas, 162 - Sala 09 - Vila Operaria, Itajaí",-26.9079019,-48.6722281,bank
+Caixa Econômica,"R. Brusque, 358 - Centro, Itajaí",-26.910325,-48.6664109,bank
+ValeCred,"R. Manoel Francisco Coelho, 189 - Sala 1 - São Vicente, Itajaí",-26.9023719,-48.6892296,bank
+Zephyr Seafood & Nikkei,"Av. Carlos Ely Castro, 100 - Centro, Itajaí",-26.911,-48.6515148,restaurant
+Restaurante e Galeteria Família Frassini - Itajaí,"Av. Min. Victor Konder, 300 - Fazenda, Itajaí",-26.9097165,-48.6542287,restaurant
+Loja B3 Stores Itajaí SC,"R. Estefano José Vanolli, 776 - Box 45 - São Vicente, Itajaí",-26.9009654,-48.6889867,store
+Sako Xeio,"Av. Min. Victor Konder, 444 - Centro, Itajaí",-26.9119339,-48.6538816,restaurant
+Navega apart hotel,"R. Maria Jocelina Couto, 233 - Centro, Navegantes",-26.8919172,-48.645122,hotel
+Xis Original,"Av. Cel. Marcos Konder, 789 - Centro, Itajaí",-26.9091891,-48.66037,restaurant
+Restaurante e Hamburgueria Palladar Divino Itajaí,"R. Indaial, 1503 - São João, Itajaí",-26.9078899,-48.67768040000001,restaurant
+Rancho Brasa Grill/ Itajaí,"Rua João Gaya, 310 - Vila Operaria, Itajaí",-26.9093499,-48.6728252,restaurant
+Restaurante Café Mariz,"Luiz Thieme - R. Frederico Augusto Luiz Tieme, 86 - Centro, Itajaí",-26.9073668,-48.662955,restaurant
+Parati Restaurante,"Av. Sete de Setembro, 252 - Centro, Itajaí",-26.9084504,-48.6587794,restaurant
+Mano Rudi Supermercados,"R. Manoel Leopoldo Rocha, 555 - São Domingos, Navegantes",-26.8854034,-48.6565951,supermarket
+Jota Gê Store,"R. Adílio Juvenal Mafra, 316 - Centro, Navegantes",-26.8851903,-48.6451712,supermarket
+Supermercados Koch (Loja 44),"Av. Pref. José Juvenal Mafra, 2169 - Centro, Navegantes",-26.8823656,-48.6453448,supermarket
+Mais Store,"Navegantes | SC - R. Artur Correa, 184 - São Domingos, Navegantes",-26.8840193,-48.6536074,store
+FRAN CARDOSO STORE,"Av. Pref. José Juvenal Mafra, 173 - Centro, Navegantes",-26.9001766,-48.64787159999999,store
+A2 Store Moda Intima,"Av. Pref. José Juvenal Mafra, 3779 - Meia Praia, Navegantes",-26.8700396,-48.6420794,store
+RM Store Selaria Navegantes-SC,"Rua : Ricardo Mafra, 118 - Centro, Navegantes",-26.8927796,-48.6587244,store
+Elite Conveniência,"R. Francisco de Paula Seara, 644 - São Paulo, Navegantes",-26.8781159,-48.6613398,store
+Maidê Store,"R. Ver. Nereu Liberato Nunes, 479 - Centro, Navegantes",-26.8913826,-48.6544707,store
+Pet Shop e Creche Allie Pet Store,"Av. Santos Dumont, 131 - Centro, Navegantes",-26.8989757,-48.6555638,store
+Bella Janela Store,"Av. Pref. José Juvenal Mafra, 1524 - Centro, Navegantes",-26.8881346,-48.6459892,store
+Emelly Store,"Av. Pref. José Juvenal Mafra, 244 - Sala 2 - Centro, Navegantes",-26.8995509,-48.6475287,store
+Cafundóca Comida com Carinho - Restaurante e Café,"R. Alm. Tamandaré, 303 - Centro, Itajaí",-26.9094493,-48.657044,restaurant
+Dom Paiolo Restaurante (Centro de Itajaí),"R. Tijucas, 31 - Centro, Itajaí",-26.9069391,-48.6625978,restaurant
+Segredos do Sabor,"Av. Cel. Marcos Konder - Centro, Itajaí",-26.9077441,-48.6614605,restaurant
+Restaurante e Lanchonete Porto,"R. Frederico Augusto Luiz Tieme, 32 - Centro, Itajaí",-26.9068881,-48.6622448,restaurant
+Johnnie Grill Itajaí,"Camelódromo de Itajaí - R. Alexandre Fleming, 528 - Loja 69 - Centro, Itajaí",-26.9074115,-48.6646848,restaurant
+Dom Paiolo Restaurante (Bistek Supermercado Anexo),"R. Heitor Liberato, 1550 Anexo ao Shopping BISTEK ESTACIONAMENTO GRATUITO 400 vagas Praça de Alimentação Supermercados BISTEK - Centro, Itajaí",-26.9062667,-48.672688,restaurant
+Praça Santo Antonio,"Rua XV de Novembro, 220 - Centro, Itajaí",-26.907243,-48.656381,restaurant
+Restaurante Santa Hora Food Itajaí,"Rua XV de Novembro, 64 - Centro, Itajaí",-26.9058968,-48.65679799999999,restaurant
+Suíte Barros,"Av. Pref. José Juvenal Mafra, 1639 - Centro, Navegantes",-26.8868239,-48.6459767,hotel
+Café e Restaurante Mercado Velho,"R. Felix Busso Asseburg, 25 - Centro, Itajaí",-26.9063996,-48.6543826,restaurant
+Restaurante e Lanchonete Amaral,"R. Arquiteto Nilson Edson dos Santos, 1100 - São Vicente, Itajaí",-26.9048214,-48.6994795,restaurant
+Magnifico Sabor,"Rua: Arquiteto Nilson Edson dos Santos, 746 - São Vicente, Itajaí",-26.9049683,-48.6963436,restaurant
+Restaurante Tian Ran Vegetariano,"R. Heitor Liberato, 1065 - Centro, Itajaí",-26.9055735,-48.6687767,restaurant
+Cheiro Verde,"63 Rua Henrique Labes Centro, Itajaí",-26.9055266,-48.6589736,restaurant
+De Gustare,"R. Lauro Muller - Centro, Itajaí",-26.9052885,-48.6557259,restaurant
+Petisqueira Restaurante,"Av. Irineu Bornhausen, 1570 - Centro, Itajaí",-26.9026898,-48.6682841,restaurant
+Restaurante do Vô,"R. Antônio Cirílo Dutra, 62 - São Vicente, Itajaí",-26.9019269,-48.6875258,restaurant
+Unidade Básica de Saúde do São Domingos I,"R. Gracilides Coelho Reiser, 128 - São Domingos, Navegantes",-26.8859989,-48.6611323,hospital
+CLÍNICA LUCHTENBERG,"R. Arnaldo Passos, N° 435 - Centro, Navegantes",-26.897461,-48.6480271,hospital
+Praia Bar Restaurante,"R. Quintino Bocaiúva, 10 - Cabeçudas, Itajaí",-26.9277484,-48.6332774,restaurant
+KAIS Ø Itajaí,"R. Dr. Pedro Ferreira, 363 - Centro, Itajaí",-26.9025655,-48.6589002,restaurant
+Opa Haus - Pousada & Hostel,"R. Geremias Caldeira, 127 - Cabeçudas, Itajaí",-26.9265163,-48.6355224,hotel
+Paraná Banco,"Rua XV de Novembro, 184 - Centro, Itajaí",-26.9068297,-48.6563716,bank
+Brava Rustic Restaurante e Lanchonete,"R. Dr. Pedro Rangel, 560 - São João, Itajaí",-26.9006131,-48.6838768,restaurant
+BioGarden Restaurante Vegetariano,"R. Dr. Pedro Ferreira, 225 - Centro, Itajaí",-26.9035844,-48.6576754,restaurant
+Mr. Batata,"Anexo ao Itajai Shopping - R. Samuel Heusi, 234 - Centro, Itajaí",-26.903899,-48.659997,restaurant
+RESTAURANTE SABORES DO NORTE,"R. Blumenau, 1185 - São João, Itajaí",-26.894446,-48.6741228,restaurant
+Restaurante Callegarin,"R. Agílio Cunha, 904 - Cidade Nova, Itajaí",-26.9239365,-48.69433799999999,restaurant
+Romas Restaurante,"R. Ver. Nereu Liberato Nunes, 191 - Centro, Navegantes",-26.8934492,-48.6565903,restaurant
+Restaurante E Lanchonete Novo Rio,"R. Alfredo Eicke, 520 - Barra do Rio, Itajaí",-26.891022,-48.68155710000001,restaurant
+Lanchonete E Restaurante Familia Schneider,"Av. Conselheiro João Gaya, 1270 - Centro, Navegantes",-26.8953572,-48.656145,restaurant
+Restaurante E Lanchonete Splash,"R. Felipe Schmidt, 192-274 - Centro, Itajaí",-26.9059537,-48.6575954,restaurant
+SellvaMar Kitchen & Coffee,"R. Dr. Pedro Ferreira, 333 - G1 - Centro, Itajaí",-26.9028646,-48.6585377,restaurant
+Restaurante Manezinho,"Ernesto Muller 100 , Navegantes Meia Praia - Centro, Navegantes",-26.9042474,-48.6565881,restaurant
+D'Kau restaurante,"Av. Santos Dumont, 102 - Centro, Navegantes",-26.8990505,-48.6552787,restaurant
+Botânico Bistrô,"R. Manoel Moreira Maia, 21 - Centro, Navegantes",-26.9015388,-48.6509696,restaurant
+Novo Sabor Restaurante e Hamburgueria,"Av. Pref. José Juvenal Mafra, 1206 - Centro, Navegantes",-26.890892,-48.646361,restaurant
+Restaurante Gastronomic House,"Av. João Sacavem, 897 - Centro, Navegantes",-26.9019932,-48.64545709999999,restaurant
+Eco Hotel Navegantes,"R. Ver. Nereu Liberato Nunes, 2510 - Centro, Navegantes",-26.882245,-48.6492103,hotel
+Pousada Hangar 310,"R. Artur Polônio Russi, 310 - Centro, Navegantes",-26.8820164,-48.64440560000001,hotel
+Pousada Navegantes,"R. Ver. Osmar Inacio da Silva, 526 - Centro, Navegantes",-26.8823863,-48.6467473,hotel
+Correspondente MaisBB,"Rua Carlos de Goes Rebello, 748 - Centro, Navegantes",-26.8893879,-48.65384419999999,bank
+Unicred - Navegantes,"Av. João Sacavem, 571 - Centro, Navegantes",-26.9014359,-48.6490015,bank
+É Creed Navegantes,"R. Estevão Pivatto, 481 - Centro, Navegantes",-26.8809184,-48.6458007,bank
+Grocery 2 Brothers,"R. Ten. Nilo Batista - São Paulo, Navegantes",-26.8768417,-48.6577309,supermarket
+Fran Supermercados,"R. Osmar Gaya, 383 - Centro, Navegantes",-26.8805897,-48.6449904,supermarket
+Mercearia SILVA,"R. Francisco de Paula Seara, 941 - Pedreiras, Navegantes",-26.8749227,-48.6612276,supermarket
+Mini Mercado Da Lage,"R. Ten. Nilo Batista, 70 - São Paulo, Navegantes",-26.8766949,-48.6578676,supermarket
+Supermercado Malvasul,"R. Ver. José Frederico de Souza, 575-621 - São Paulo, Navegantes",-26.8786084,-48.6622461,supermarket
+Supermercado Vanessa,"R. Manoel Leopoldo Rocha, 555 - Meia Praia, Navegantes",-26.8804698,-48.64813299999999,supermarket
+Sabores do Norte,"R. Ver. José Frederico de Souza - São Paulo, Navegantes",-26.8749517,-48.6620522,supermarket
+Mercearia e conveniência LUCAS,"R. Prof. Francisco José Baron, num 795 - Meia Praia, Navegantes",-26.8621533,-48.647225,supermarket
+Conveniência Blue Ice,"Av. Pref. José Juvenal Mafra, 3740 - Meia Praia, Navegantes",-26.8701995,-48.6417671,supermarket
+Supermercado Malvasul Meia Praia - Supermercado em Navegantes,"Av. Pref. José Juvenal Mafra, 4305 - Meia Praia, Navegantes",-26.8624308,-48.6403939,supermarket
+Mercado & Açougue Neco,"R. Ver. José Frederico de Souza, 436 - São Paulo, Navegantes",-26.8797651,-48.6622719,supermarket
+Mon Essence store,"R. Jorn. Rui Ademar Rodrigues, 367 - Nossa Sra. das Gracas, Navegantes",-26.8753209,-48.6810382,store
+T&C Store,"R. José Francisco Laurindo, 1334 - São Domingos, Navegantes",-26.8793269,-48.6737267,store
+Hanna Store Lr,"R. Jorn. Rui Ademar Rodrigues, 497 - Sala 01 - Nossa Sra. das Gracas, Navegantes",-26.8731108,-48.6792285,store
+El Moglito,"R. São Paulo, 362 - Cordeiros, Itajaí",-26.8889584,-48.6975569,restaurant
+Restaurante e Pizzaria Oliveira - Itajaí,"R. Otávio Cesário Pereira, 194 - São Vicente, Itajaí",-26.9025811,-48.690693,restaurant
+Restaurante D. Teresa,"R. Bernardino Ramos, 135 - Barra do Rio, Itajaí",-26.8870453,-48.6763959,restaurant
+Chef Burger,"R. Ver. Nereu Liberato Nunes, 59-65 - Centro, Navegantes",-26.8952599,-48.6553847,restaurant
+General Pepper,"R. Samuel Heusi, 234 - S35 - Centro, Itajaí",-26.9036158,-48.6603901,restaurant
+Brumar Lanches,"R. Benjamin Franklin Pereira, 270 - São João, Itajaí",-26.9028766,-48.670707,restaurant
+Hula Hula Natural Food - Bistek,"R. Heitor Liberato, 1550 - LJ 46 - São João, Itajaí",-26.9063254,-48.67390229999999,restaurant
+SUPERMARKET GREEN VILLAGE,"Av. Pref. José Juvenal Mafra, 1207 - Sala 2 - Centro, Navegantes",-26.8907469,-48.6466305,restaurant
+Restaurante Delícias Caseiras,"R. Indaial, 1264 - São Judas, Itajaí",-26.9099477,-48.6772177,restaurant
+Grill Burg,"R. Manoel Leopoldo Rocha, 576 - São Domingos, Navegantes",-26.8856235,-48.6564585,restaurant
+Dom Brasa Steak house,"R. Osmar Gaya, 835 - Centro, Navegantes",-26.8854704,-48.65392869999999,restaurant
+Pousada Recanto do Mar,"Rua Sebastião Vicente Coelho, 119 - Centro, Navegantes",-26.8874532,-48.6434612,hotel
+Hotel E Pousada Dal Ri,"Centro, Navegantes",-26.8947896,-48.6550688,hotel
+Apartamento Osmar Gaya,"R. Osmar Gaya, 456 - Meia Praia, Navegantes",-26.8803088,-48.64572219999999,hotel
+Restaurante Casarão do Sabor,"R. Manoel Leopoldo Rocha, 667 - São Domingos, Navegantes",-26.8855597,-48.655215,restaurant
+Lanchonete e Conveniência Fênix,"R. Otávio Cesário Pereira, 1121 - São Vicente, Itajaí",-26.9073031,-48.6905736,restaurant
