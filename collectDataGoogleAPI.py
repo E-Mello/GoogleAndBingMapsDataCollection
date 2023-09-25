@@ -2,7 +2,7 @@ import googlemaps
 import csv
 
 # Defina sua chave da API do Google aqui
-API_KEY = 'AIzaSyBfW83GuA-HBxBvaPvRsFUw8lC65btxUxw'
+API_KEY = 'SUA_API_KEY'
 
 # Nome do arquivo CSV para salvar os resultados
 nome_arquivo_csv = 'resultado.csv'
