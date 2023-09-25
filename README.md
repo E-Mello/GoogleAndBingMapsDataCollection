@@ -1,9 +1,12 @@
-# 🌍 Google and Bing Maps Data Collection 🗺️
-
-![GitHub repo size](https://img.shields.io/github/repo-size/E-Mello/GoogleAndBingMapsDataCollection)
-![GitHub stars](https://img.shields.io/github/stars/E-Mello/GoogleAndBingMapsDataCollection)
-![GitHub forks](https://img.shields.io/github/forks/E-Mello/GoogleAndBingMapsDataCollection)
-![GitHub license](https://img.shields.io/github/license/E-Mello/GoogleAndBingMapsDataCollection)
+<div align="center">
+  <h1>🌍 Google and Bing Maps Data Collection 🗺️</h1>
+  <p>
+    <img src="https://img.shields.io/github/repo-size/E-Mello/GoogleAndBingMapsDataCollection" alt="GitHub repo size">
+    <img src="https://img.shields.io/github/stars/E-Mello/GoogleAndBingMapsDataCollection" alt="GitHub stars">
+    <img src="https://img.shields.io/github/forks/E-Mello/GoogleAndBingMapsDataCollection" alt="GitHub forks">
+    <img src="https://img.shields.io/github/license/E-Mello/GoogleAndBingMapsDataCollection" alt="GitHub license">
+  </p>
+</div>
 
 ## Descrição do Projeto
 
@@ -24,20 +27,20 @@ O projeto foi desenvolvido em várias etapas. Os commits foram feitos de forma o
 ## Pré-requisitos
 
 - Python 3.x
-- Bibliotecas Python: [Liste as bibliotecas necessárias aqui]
-- Chave de API do Google Maps (para `collectDataGoogleAPI.py`)
-- Conta de e-mail e senha (para `collectDataBingWebScraping.py` e `insertDataOtherSiteWebScraping.py`)
+- **Bibliotecas Python:** [requirements.txt](https://github.com/E-Mello/GoogleAndBingMapsDataCollection/blob/main/requirements.txt)
+- **Chave de API do Google Maps** (para `collectDataGoogleAPI.py`)
+- **Conta de e-mail e senha** (para `collectDataBingWebScraping.py` e `insertDataOtherSiteWebScraping.py`)
 
 ## Instruções de Uso
 
 1. Clone o repositório para sua máquina local.
-2. Instale as bibliotecas Python necessárias executando `pip install [lista de bibliotecas]`.
+2. Instale as bibliotecas Python necessárias executando `pip install -r requirements.txt`.
 3. Configure as chaves de API e as credenciais necessárias nos arquivos apropriados.
 4. Execute os scripts de acordo com suas necessidades para coletar e manipular os dados de locais.
 
 ## Autor
 
-- [Édio de Melo Pereira]
+- **Édio de Melo Pereira**
 
 ## Licença
 
