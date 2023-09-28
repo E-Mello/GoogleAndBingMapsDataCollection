@@ -68,3 +68,4 @@ Icon?
 *.nbconvert.ipynb
 #*.html
 #*.pdf
+*.csv

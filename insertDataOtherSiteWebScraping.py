@@ -5,7 +5,9 @@ from selenium.common.exceptions import TimeoutException
 import csv
 import time
 from selenium.webdriver.support.ui import WebDriverWait
+from selenium.common.exceptions import StaleElementReferenceException
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import WebDriverWait
 from dotenv import load_dotenv
 import os
 
@@ -81,19 +83,52 @@ def login(driver):
     time.sleep(5)
 
 
-def cadastrar_endereco(driver, nome, latitude, longitude):
+def wait_for_overlay_to_disappear(driver):
     try:
-        # Esperar o botão "Cadastrar Endereço" ficar visível
-        add_address_button = WebDriverWait(driver, 10).until(
-            EC.visibility_of_element_located(
+        wait = WebDriverWait(driver, 10)
+        overlay = wait.until(EC.presence_of_element_located(
+            (By.CLASS_NAME, 'swal-overlay')))
+        if overlay.is_displayed():
+            wait.until_not(EC.visibility_of(overlay))
+    except Exception as e:
+        print(f"Erro ao esperar o overlay desaparecer: {str(e)}")
+
+
+def click_element_with_retry(element, driver):
+    max_attempts = 3  # Defina o número máximo de tentativas
+    for _ in range(max_attempts):
+        try:
+            # Use JavaScript para clicar no elemento
+            driver.execute_script("arguments[0].click();", element)
+            return True  # Clique bem-sucedido, saia do loop
+        except StaleElementReferenceException:
+            # Se ocorrer uma exceção de elemento obsoleto, continue tentando
+            continue
+        except Exception as e:
+            print(f"Erro ao clicar no elemento: {str(e)}")
+            return False  # Lidar com outras exceções e sair
+
+    print("Falha ao clicar no elemento após várias tentativas.")
+    return False
+
+
+def cadastrar_endereco(driver, nome, latitude, longitude, wait):
+    try:
+        # Antes de clicar no botão "Cadastrar Endereço", aguarde até que o overlay desapareça
+        wait_for_overlay_to_disappear(driver)
+
+        # Espera até que o botão "Cadastrar Endereço" seja visível e clicável
+        add_address_button = wait.until(
+            EC.element_to_be_clickable(
                 (By.CSS_SELECTOR, '.btn.btn-primary[data-toggle="modal"][data-target="#addAddressModal"]'))
         )
 
-        # Clica no botão "Cadastrar Endereço"
-        add_address_button.click()
-
-        # Teste de funcionamento
-        print("Botão 'Cadastrar Endereço' clicado com sucesso.")
+        # Tentar clicar no botão com tratamento de exceção e repetição
+        if click_element_with_retry(add_address_button, driver):
+            print("Botão 'Cadastrar Endereço' clicado com sucesso.")
+        else:
+            print("Falha ao clicar no botão 'Cadastrar Endereço'.")
+            return
 
         # Espera até que os campos de entrada sejam visíveis
         nameLocal = WebDriverWait(driver, 10).until(
@@ -138,8 +173,6 @@ def cadastrar_endereco(driver, nome, latitude, longitude):
     except Exception as e:
         print(f"Erro desconhecido ao cadastrar endereço: {str(e)}")
 
-        print(f"Erro desconhecido ao cadastrar endereço: {str(e)}")
-
 
 def main():
     driver = webdriver.Chrome()
@@ -152,8 +185,11 @@ def main():
     # Acessa a página de cadastro de locais
     driver.get(url_address)
 
+    # Cria a instância do WebDriverWait
+    wait = WebDriverWait(driver, 10)
+
     # Lê os dados do arquivo resultado.csv e preenche o formulário
-    with open("resultados_brusque.csv", "r", encoding="utf-8") as csvfile:
+    with open("resultados_Indaial.csv", "r", encoding="utf-8") as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
             nome_endereco = row["Nome"] + " - " + row["Endereço"]
@@ -161,7 +197,8 @@ def main():
             longitude = row["Longitude"]
 
             # Cadastra endereço
-            cadastrar_endereco(driver, nome_endereco, latitude, longitude)
+            cadastrar_endereco(driver, nome_endereco,
+                               latitude, longitude, wait)
 
     driver.quit()
 
